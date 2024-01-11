@@ -1,0 +1,21 @@
+#searchField{
+    background-color: rgb(168, 206, 112);
+
+}
+
+
+#mainWeather{
+    background-image: linear-gradient(to right, skyblue , yellow);
+    justify-content: end;
+    width: 75%;
+    border: solid;
+    margin: 5px;
+}
+
+#secondaryWeather{
+    background-image: linear-gradient(to right, skyblue , darkgray);
+    justify-content: right;
+    width: 75%;
+    border: solid;
+    margin: 5px;
+}
